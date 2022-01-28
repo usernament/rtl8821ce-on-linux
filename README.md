@@ -3,6 +3,8 @@ A guide for installing the drivers that RTL8821CE needs to work properly.
 ## Before the Linux distro installation
 * Download rtl8821ce-master.zip
 * Copy it into a USB.
+
+**Note:** if the distro you're installing needs Internet connection for the installation, use a mobile phone's tethering (it doesn't matter if it's connected to Wi-Fi or mobile data).
 ## After the Linux distro installation
 * If the installation manager tell you to reboot, reboot.
 * Copy the rtl8821ce-master.zip in the folder you want.
